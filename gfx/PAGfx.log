@@ -1,0 +1,45 @@
+PAGfx Converter v0.10 -- by Mollusk -- resurrected by fincs -- forum.palib.info
+If you have suggestions, problems or anything please come to the PAlib forums
+
+Converting PAGfx.ini
+Transparent Color: Magenta
+
+1 sprites:
+  Sprite_Play: 256colors, 16x16, Pal: DSGMPal0_Pal, -> Sprite_Play_Sprite
+
+14 backgrounds:
+  Background_1 : EasyBg, 256x192, Pal: Background_1_Pal, 284 tiles -> Background_1_Tiles and Background_1_Map
+  Background_2 : EasyBg, 256x192, Pal: Background_2_Pal, 763 tiles -> Background_2_Tiles and Background_2_Map
+  Background_3 : EasyBg, 256x192, Pal: Background_3_Pal, 410 tiles -> Background_3_Tiles and Background_3_Map
+  Background_4 : EasyBg, 256x192, Pal: Background_4_Pal, 238 tiles -> Background_4_Tiles and Background_4_Map
+  Top_SelectTrack : EasyBg, 256x192, Pal: Top_SelectTrack_Pal, 145 tiles -> Top_SelectTrack_Tiles and Top_SelectTrack_Map
+  Bottom_Background : EasyBg, 256x192, Pal: Bottom_Background_Pal, 1 tiles -> Bottom_Background_Tiles and Bottom_Background_Map
+  Top_Electrolysis : EasyBg, 256x192, Pal: Top_Electrolysis_Pal, 127 tiles -> Top_Electrolysis_Tiles and Top_Electrolysis_Map
+  Top_LookingBack : EasyBg, 256x192, Pal: Top_LookingBack_Pal, 130 tiles -> Top_LookingBack_Tiles and Top_LookingBack_Map
+  Top_CometInbound : EasyBg, 256x192, Pal: Top_CometInbound_Pal, 132 tiles -> Top_CometInbound_Tiles and Top_CometInbound_Map
+  Top_Positive : EasyBg, 256x192, Pal: Top_Positive_Pal, 114 tiles -> Top_Positive_Tiles and Top_Positive_Map
+  Top_LowOrbit : EasyBg, 256x192, Pal: Top_LowOrbit_Pal, 119 tiles -> Top_LowOrbit_Tiles and Top_LowOrbit_Map
+  Top_Volcano : EasyBg, 256x192, Pal: Top_Volcano_Pal, 114 tiles -> Top_Volcano_Tiles and Top_Volcano_Map
+  Bottom_SongSelection : EasyBg, 256x192, Pal: Bottom_SongSelection_Pal, 260 tiles -> Bottom_SongSelection_Tiles and Bottom_SongSelection_Map
+  Top_Main : EasyBg, 256x192, Pal: Top_Main_Pal, 205 tiles -> Top_Main_Tiles and Top_Main_Map
+
+15 palettes:
+  DSGMPal0_Pal, 19 colors
+  Background_1_Pal, 142 colors
+  Background_2_Pal, 246 colors
+  Background_3_Pal, 249 colors
+  Background_4_Pal, 25 colors
+  Top_SelectTrack_Pal, 59 colors
+  Bottom_Background_Pal, 2 colors
+  Top_Electrolysis_Pal, 59 colors
+  Top_LookingBack_Pal, 59 colors
+  Top_CometInbound_Pal, 59 colors
+  Top_Positive_Pal, 59 colors
+  Top_LowOrbit_Pal, 59 colors
+  Top_Volcano_Pal, 59 colors
+  Bottom_SongSelection_Pal, 27 colors
+  Top_Main_Pal, 59 colors
+
+Converted in 0 minutes and 0 seconds
+
+Finished!
