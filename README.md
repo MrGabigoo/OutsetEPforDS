@@ -1,5 +1,5 @@
 # OutsetEPforDS
-Nintendo DS application that plays my album, Outset EP
+Nintendo DS application that plays my album, Outset EP... sort of.
 
 -----
 
